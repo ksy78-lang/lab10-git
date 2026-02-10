@@ -1,4 +1,4 @@
 # lab10-git 
 практическая гит
 тяжело
-test
+test ,kzzzzzzzzzz
